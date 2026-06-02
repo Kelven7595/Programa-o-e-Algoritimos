@@ -52,11 +52,11 @@ O objetivo é construir uma base sólida para o aprendizado de linguagens de pro
 
 - Portugol Studio
 - Visual Studio Code
-- Git
 - GitHub
 - HTML
 - CSS
-- JavaScript
+- Phython
+- Pc Gamer
 
 ---
 
